@@ -1,4 +1,4 @@
-# Pranav Anil and Krishna Saini
+# Pranav Anil, Nabh Sharma and Krishna Saini
 #*COMPUTER SCIENCE SCHOOL PROJECT ON MATRICES AND DETERMINANTS *#
 
 import random
